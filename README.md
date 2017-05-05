@@ -1,0 +1,2 @@
+# Gourmand-Restaurant-App
+Gourmand is a restaurant management and food ordering app. This repository contains the complete Design Document for the app along with UML artifacts like Domain Model, Design Model, Sequence Diagrams, Activity Diagrams, State Diagrams, Design Patterns (Observer, State, Abstract Factory, Decorator, Composite, Iterator, Template Method, Singleton, Adapter and Proxy). The MVC architecture also has been applied to the design
